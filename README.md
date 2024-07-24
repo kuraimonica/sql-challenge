@@ -3,14 +3,9 @@ Module 9 Challenge
 # sql-challenge
 Module 9 Challenge
 
-Data Modelling
+Data Modelling ( Please refer to ERD.png file)
 Inspect the CSV files, and then sketch an ERD of the tables. To create the sketch, feel free to use a tool like QuickDBD
 Links to an external site.
-
-
-
-
-￼
 
 
 
